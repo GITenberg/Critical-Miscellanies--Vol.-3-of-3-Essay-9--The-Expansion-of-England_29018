@@ -1,0 +1,29 @@
+_repo: Critical-Miscellanies--Vol.-3-of-3-Essay-9--The-Expansion-of-England_29018
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morley, John
+    alias: Morley, Viscount
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '3767'
+    url: http://www.gutenberg.org/2009/agents/3767
+    wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
+description: ''
+gutenberg_issued: '2009-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seeley, John Robert, Sir, 1834-1895. The expansion of England'
+- !lcsh 'Great Britain -- Colonies'
+- !lcc 'DA'
+title: 'Critical Miscellanies (Vol. 3 of 3), Essay 9: The Expansion of England'
+url: http://www.gutenberg.org/ebooks/29018
